@@ -1,5 +1,5 @@
 # About me 
-
+I am a Data science student learning at DYPCET
 
 **ARYAN-S-TAPASE/ARYAN-S-TAPASE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
